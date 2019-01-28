@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (3.0.0)
+  - ProjectOxfordFace (1.0)
+
+DEPENDENCIES:
+  - Alamofire (= 3.0.0)
+  - ProjectOxfordFace
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ProjectOxfordFace
+
+SPEC CHECKSUMS:
+  Alamofire: b61782387f81bcc538a0284cf2bb5d7995cd0a80
+  ProjectOxfordFace: 6ee1f7b0a39b5d1cba20cf100d8f9d11ad264790
+
+PODFILE CHECKSUM: 3cc718f2340764b2ca28661320445ce124f434dc
+
+COCOAPODS: 1.5.3
